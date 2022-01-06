@@ -1,2 +1,2 @@
 # AdventofCode
-All the code done from advent of code over the years
+All the code done from advent of code over time
